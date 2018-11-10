@@ -1,0 +1,10 @@
+C:\2 курс\ДМ\DM-TASK3\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\2 курс\ДМ\DM-TASK3\BubbleSort\bin\Debug\BubbleSort.exe
+C:\2 курс\ДМ\DM-TASK3\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\2 курс\ДМ\DM-TASK3\BubbleSort\bin\Debug\ClassLib.dll
+C:\2 курс\ДМ\DM-TASK3\BubbleSort\bin\Debug\ClassLib.pdb
+C:\2 курс\ДМ\DM-TASK3\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\2 курс\ДМ\DM-TASK3\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\2 курс\ДМ\DM-TASK3\BubbleSort\obj\Debug\BubbleSort.csproj.CopyComplete
+C:\2 курс\ДМ\DM-TASK3\BubbleSort\obj\Debug\BubbleSort.exe
+C:\2 курс\ДМ\DM-TASK3\BubbleSort\obj\Debug\BubbleSort.pdb

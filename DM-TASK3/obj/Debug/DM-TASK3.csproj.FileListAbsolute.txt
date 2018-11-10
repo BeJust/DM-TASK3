@@ -1,0 +1,10 @@
+C:\2 курс\ДМ\DM-TASK3\DM-TASK3\bin\Debug\DM-TASK3.exe.config
+C:\2 курс\ДМ\DM-TASK3\DM-TASK3\bin\Debug\DM-TASK3.exe
+C:\2 курс\ДМ\DM-TASK3\DM-TASK3\bin\Debug\DM-TASK3.pdb
+C:\2 курс\ДМ\DM-TASK3\DM-TASK3\bin\Debug\ClassLib.dll
+C:\2 курс\ДМ\DM-TASK3\DM-TASK3\bin\Debug\ClassLib.pdb
+C:\2 курс\ДМ\DM-TASK3\DM-TASK3\obj\Debug\DM-TASK3.csprojAssemblyReference.cache
+C:\2 курс\ДМ\DM-TASK3\DM-TASK3\obj\Debug\DM-TASK3.csproj.CoreCompileInputs.cache
+C:\2 курс\ДМ\DM-TASK3\DM-TASK3\obj\Debug\DM-TASK3.csproj.CopyComplete
+C:\2 курс\ДМ\DM-TASK3\DM-TASK3\obj\Debug\DM-TASK3.exe
+C:\2 курс\ДМ\DM-TASK3\DM-TASK3\obj\Debug\DM-TASK3.pdb
